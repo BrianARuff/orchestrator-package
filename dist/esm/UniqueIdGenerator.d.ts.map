@@ -1,0 +1,1 @@
+{"version":3,"file":"UniqueIdGenerator.d.ts","sourceRoot":"","sources":["../../src/UniqueIdGenerator.ts"],"names":[],"mappings":"AAEA,qBAAa,iBAAiB;IAC1B,OAAO,CAAC,QAAQ,CAAC,MAAM,CAAS;IAChC,OAAO,CAAC,QAAQ,CAAC,SAAS,CAAS;IACnC,OAAO,CAAC,aAAa,CAAS;IAC9B,OAAO,CAAC,OAAO,CAAS;IACxB,OAAO,CAAC,QAAQ,CAAC,KAAK,CAAS;;IAe/B,QAAQ,IAAI,MAAM;CAkCrB;AAED,eAAe,iBAAiB,CAAC"}
